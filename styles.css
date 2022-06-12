@@ -1,0 +1,17 @@
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.input-group {
+    width: 30%;
+    margin: 0 auto;
+}
+.d-grid-gap-2-col-6-mx-auto{
+   
+    margin: 0 auto;
+}
+.img-fluid {
+    height:160px; 
+    width:309px;
+}
